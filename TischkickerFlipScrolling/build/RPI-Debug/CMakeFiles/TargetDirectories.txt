@@ -1,0 +1,9 @@
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/TischkickerFlipScrolling.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/edit_cache.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/rebuild_cache.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/list_install_components.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/install.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/install/local.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/install/strip.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/TischkickerFlipScrolling_autogen_timestamp_deps.dir
+/home/g-nther/TischkickerFlipScrolling/build/RPI-Debug/CMakeFiles/TischkickerFlipScrolling_autogen.dir
