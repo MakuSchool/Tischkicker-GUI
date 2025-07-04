@@ -15,6 +15,10 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+protected:
+    void keyPressEvent(QKeyEvent *event) override;
+    void closeEvent(QCloseEvent *event) override;
+
 private slots:
 
     void on_plusTeam1_clicked();
@@ -41,5 +45,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+    bool allowClose;
 };
 #endif // MAINWINDOW_H
